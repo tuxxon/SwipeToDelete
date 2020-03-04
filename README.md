@@ -2,7 +2,7 @@
 
 Simple RecyclerView swipe to delete implementation written in java.
 
-This kotlin source https://github.com/kitek/android-rv-swipe-delete  are converted.
+The original kotlin source https://github.com/kitek/android-rv-swipe-delete  is converted to this.
 
 ## Issue
   Either notifyItemInserted(index) or notifyDatasetChanged() doesn't work at index 0.
